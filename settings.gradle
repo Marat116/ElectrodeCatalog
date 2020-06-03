@@ -1,0 +1,2 @@
+rootProject.name='Electrode Catalog'
+include ':app'

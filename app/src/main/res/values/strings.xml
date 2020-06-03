@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Справочник Электродов</string>
+    <string name="electrode">Электрод</string>
+    <string name="type_mark">Тип и марка</string>
+    <string name="tu_gost">ТУ, ГОСТ</string>
+    <string name="form">Вид</string>
+    <string name="function">Назначение и область применения электродов</string>
+    <string name="vrem_sopr_raz">Врем. сопр. раз.</string>
+    <string name="otn_udl">Отн. удл.</string>
+    <string name="ud_vyaz">Уд. вяз.</string>
+    <string name="rod_toka_electrodov">Род тока электродов</string>
+    <string name="polojenie_svarki">Пространственные положения сварки</string>
+    <string name="base_info">Общая информация</string>
+    <string name="mechanic_properties_info">Механические свойства электродов</string>
+    <string name="additional_info">Дополнительная информация</string>
+    <string name="search">Поиск</string>
+    <string name="scan">Сканировать штрих-код</string>
+    <string name="query_error">По вашем запросу ничего не найдено</string>
+</resources>
